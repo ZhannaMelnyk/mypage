@@ -1,2 +1,2 @@
-# mypage
+# Mypage
 My first page
